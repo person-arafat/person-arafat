@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm person-arafat</h1>
+<h1 align="center">Hi 👋, I'm Arafat</h1>
 <h3 align="center">A passionate web scraper from Bangladesh</h3>
 
 - 🔭 I’m currently working on **scraping e-commerce website**
