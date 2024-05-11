@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arafat</h1>
 <h3 align="center">A passionate web scraper from Bangladesh</h3>
 
+👋 Hey there! I'm Arafat Hossain, a passionate aspiring Data Engineer on a journey to master the art of data manipulation and engineering. 💼 Currently honing my skills in RDBMS, SQL, and various data processing frameworks, I'm eager to contribute to projects that leverage data to drive insights and innovation.
+
 - 🔭 I’m currently working on **scraping an e-commerce website**
 
 - 🌱 I’m currently learning **RDBMS**
